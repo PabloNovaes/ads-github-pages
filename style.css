@@ -36,8 +36,7 @@ h1 {
   text-wrap: balance;
 }
 
-
-p{
+p {
   max-width: 380px;
   margin: 0 auto;
 }
@@ -72,4 +71,9 @@ button a {
   display: flex;
   align-items: center;
   gap: 5px;
+}
+
+button,
+a {
+  cursor: pointer;
 }
