@@ -36,6 +36,12 @@ h1 {
   text-wrap: balance;
 }
 
+
+p{
+  max-width: 380px;
+  margin: 0 auto;
+}
+
 .wrapper {
   display: flex;
   gap: 0.5rem;
